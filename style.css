@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.test p{
+    text-align: justify;
+}
+
+.test img{
+    margin: 15px 0px;
+}
+
+
+.my-form{}
+.my-form form{}
+.my-form form input{
+    margin-bottom: 10px;
+}
+.my-form form textarea{
+    margin-bottom: 10px;
+}
+.my-form form button{
+    
+}
+
